@@ -27,7 +27,7 @@ a :hover,
  :active {
     /* text-decoration: underline; */
     color: blue;
-    color: #363945;
+    color: #fff;
 }
 
 .container {
